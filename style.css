@@ -504,7 +504,7 @@ p {
   position: absolute;
   inset: 0;
   z-index: -3;
-  background: url("img/leaves.jpg") center/cover no-repeat;
+  background: url("img/leaves.webp") center/cover no-repeat;
   opacity: 0.05;
 }
 .academy__backdrop {
@@ -1105,7 +1105,7 @@ p {
   inset: 0;
   z-index: -2;
 
-  background-image: url("img/history.png");
+  background-image: url("img/history.webp");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center 35%;
@@ -3317,7 +3317,7 @@ p {
   display: flex;
   align-items: center;
   min-height: 660px;
-  background: #3d382d url("img/footer.png") center 40% / cover no-repeat;
+  background: #3d382d url("img/footer.webp") center 40% / cover no-repeat;
   overflow: hidden;
 }
 
